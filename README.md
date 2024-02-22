@@ -7,7 +7,8 @@ All assets were either originally produced or were already free for anyone to us
 
 ### Important:
 
-The Library and Assets directories were compressed so that they could be uploaded.
+The library and assets directories were omitted due to their large file sizes, though they may be hyperlinked through another source later on. 
+The screenshots folder shows certain portions of this unfinished project. 
 
 
 
